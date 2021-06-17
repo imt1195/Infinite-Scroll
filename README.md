@@ -1,6 +1,6 @@
 # Infinite-Scroll
 
 #To Run on Local Computer
- - cd infinite_scroll
+ - navigate to the infinite_scroll folder (cd infinite_scroll)
  - npm i
  - npm start

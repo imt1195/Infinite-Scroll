@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.section {
+  border: "1px solid green";
+  margin: 6;
+  padding: 8;
+  background-color: #61dafb;
+}
+
+.picture {
+  border: "1px solid red";
+  width: "20%";
+  height: "750px";
+  padding: 10
+}
